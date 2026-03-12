@@ -1,5 +1,0 @@
-flask>=2.3.0
-pymupdf>=1.23.0
-spacy>=3.7.0
-reportlab>=4.0.0
-werkzeug>=2.3.0
